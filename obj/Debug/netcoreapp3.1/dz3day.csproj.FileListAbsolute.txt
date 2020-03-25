@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\My Projects\dz3day\bin\Debug\netcoreapp3.1\dz3day.exe
+C:\Users\ASUS\Desktop\My Projects\dz3day\bin\Debug\netcoreapp3.1\dz3day.deps.json
+C:\Users\ASUS\Desktop\My Projects\dz3day\bin\Debug\netcoreapp3.1\dz3day.runtimeconfig.json
+C:\Users\ASUS\Desktop\My Projects\dz3day\bin\Debug\netcoreapp3.1\dz3day.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\My Projects\dz3day\bin\Debug\netcoreapp3.1\dz3day.dll
+C:\Users\ASUS\Desktop\My Projects\dz3day\bin\Debug\netcoreapp3.1\dz3day.pdb
+C:\Users\ASUS\Desktop\My Projects\dz3day\obj\Debug\netcoreapp3.1\dz3day.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\My Projects\dz3day\obj\Debug\netcoreapp3.1\dz3day.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\My Projects\dz3day\obj\Debug\netcoreapp3.1\dz3day.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\My Projects\dz3day\obj\Debug\netcoreapp3.1\dz3day.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\My Projects\dz3day\obj\Debug\netcoreapp3.1\dz3day.dll
+C:\Users\ASUS\Desktop\My Projects\dz3day\obj\Debug\netcoreapp3.1\dz3day.pdb
+C:\Users\ASUS\Desktop\My Projects\dz3day\obj\Debug\netcoreapp3.1\dz3day.genruntimeconfig.cache
